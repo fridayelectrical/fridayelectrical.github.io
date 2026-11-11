@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "ph.fridayelectrical.rehab",
+        "sha256_cert_fingerprints": ["33:66:5B:67:61:B7:25:F9:B8:54:77:20:74:DF:05:C2:5F:43:AF:D9:6B:5D:55:EA:00:80:56:C1:4C:E1:E0:93"]
+      }
+    }]
